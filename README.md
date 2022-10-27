@@ -1,2 +1,1 @@
-# Embedded-System-Activity-5-Dimalanta-
-Checksum
+. Even if this is not the case, any onboard RAM should be tested at least as frequently as the system is reset. It is then up to the embedded software developer to determine what can go wrong and design a suite of tests to detect problems. A memory test verifies that each storage location in a memory device is operational. In other words, if you store the number 50 at a specific address, you should expect to find it there until another number is written to the same address. The basic idea behind any memory test is to write some data to each address in the memory device and then read it back to verify the data.
